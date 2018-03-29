@@ -1,2 +1,2 @@
-# cultural.heritage.acopeland
+# copeland.github.io
 Heritage Quilt Project
